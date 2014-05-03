@@ -1,0 +1,17 @@
+*
+!.gitignore
+!cache
+!cache/models
+!cache/models/empty
+!cache/persistent
+!cache/persistent/empty
+!cache/persistent/myapp_cake_core_cake_dev_es-es
+!cache/persistent/myapp_cake_core_file_map
+!cache/views
+!cache/views/empty
+!logs
+!logs/empty
+!sessions
+!sessions/empty
+!tests
+!tests/empty
